@@ -11,8 +11,8 @@ A lightweight, production-ready SwiftUI component library for iOS developers. Bu
 
 
 <p align="center">
-  <img src="[path/to/image2.png](https://github.com/user-attachments/assets/25a07630-2052-4d7b-92e2-f3e3e2cefd75)" width="45%" />
-  <img src="[path/to/image2.png](https://github.com/user-attachments/assets/b42534fe-fbfa-47ca-8ead-0499cd664fc4)" width="45%" />
+  <img src="https://github.com/user-attachments/assets/25a07630-2052-4d7b-92e2-f3e3e2cefd75" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b42534fe-fbfa-47ca-8ead-0499cd664fc4" width="45%" />
 </p>
 
 ![Image 1](path/to/image1.png) ![Image 2](path/to/image2.png)
